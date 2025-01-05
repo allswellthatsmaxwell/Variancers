@@ -138,4 +138,79 @@ He smiled ruefully, still with his attention on picking his way through the tree
 
 They had made it to the end of the wooden area, and the town was ahead of them now. Cassie wasn’t surprised this time when Davis took the sidewalk across the road from her.
 
-<introduce the town during their walk - businesses , parks, etc? Ehh maybe not>
+“Cassie.” She looked over at him. He looked tense. “The probability of the car rolling over like that. How unlikely do you think that was?” 
+
+“Um. Very. How fast were you going?” She had to raise her voice even more than in the woods to be heard. She was practically yelling now.
+
+“Thirty,” he called over.
+
+“And you said the car was checked just last night?”
+
+“Yes.”
+
+“Unlikely!” She yelled. Maybe a bit too loud. She lowered her voice a little. “Super unlikely. Don’t worry. It’s not something that’s gonna happen next time you drive or anything.”
+He grimaced. “I need more than that. Can you estimate the probability?”
+
+“Um.” She was quiet as she walked and thought. She passed the coffee shop she liked to go to. Then the hardware store. He didn’t rush her; they walked in silence. 
+
+She didn’t actually know how often cars rolled over. Most crashes weren’t rollovers - she knew that - most crashes were cars hitting things, or hitting other cars. She had seen a car on its side once, on a normal side street, while walking home from high school, so it wasn’t unheard of, either. Maybe like 2% of crashes were rollovers? And her friends did seem to get into car accidents now and then, so maybe the yearly rate of getting into any kind of car accident was… one in a hundred? 
+
+But that seemed low, since most people got into an accident at least once in their lives, and people only drove for like 50 or 60 years of their lives. And she knew one or two people who seemed to get into accidents every couple years. So she adjusted it to one in forty, for yearly accident risk.
+
+Every time a car passed, Davis floated closer to the businesses furthest from the road, head on a swivel watching the car approach and pass by, then drifted back to the middle of the sidewalk once it had passed. When there was no car, he seemed to prefer looking at the shops he was walking by.
+
+If it was 1/40 for a year, then any given day’s probability was 1 / 40 * 365. She didn’t want to deal with the arithmetic, so she rounded it to 1 / 40 * 400. Four times four was 16, so this was the same as 1 / 16 * 1000. 
+
+And to rollover… you usually had to be going pretty fast, and turning pretty hard, at the same time. Davis had been going 30 miles an hour, which wasn’t very fast, and the turn wasn’t killer sharp, but it wasn’t the smoothest turn ever, either? But still not a case where you’d expect a rollover. So this was less likely than the 2% rollover rate. Uhh, maybe 0.1%?
+
+So… if the chance of him getting into an accident was 1 / 16 * 1000, and given that he’d gotten into an accident, the chance of it being a rollover was 0.1%… or 1 in 1,000… Then together… it was 1 / 16 * 1000 * 1000.
+
+It had been three and a half blocks since he’d asked the question when she answered. “1 in 16 million, I think.”
+
+His answer was instantaneous. “No. That’s too low.”
+
+She blinked, annoyed. She shouldn’t be annoyed - she knew he was having a bad day - but she was. “What? Did you calculate it too? So why did you ask me?”
+
+“I didn’t,” he called over. “Not my strong suit. But I know it’s too low. Because the fire was unlikely too. Together, it’s too much, even for the luck I’m dealing with.”
+
+She pressed her lips together. Who cares if the fire was unlikely too?
+
+“I seriously think - “
+
+He shouted over her, which wasn’t as bad as it sounded, since they basically had to yell to be heard in the first place. “Say it’s too low. Just humor me. Where would the mistake have been?”
+
+She crossed her arms, still annoyed, and thought for a bit, still walking. “I… don’t know!”
+
+He was quiet for a bit. Still doing his side-to-side drifts and head swivels. “Say that I was definitely going to crash somewhere on that hill. Does that change anything?”
+
+Hm. Conditional on crashing… well, that wasn’t right. It was still super unlikely to crash on that hill… it was a one-way for most of it, there were barely any cars on that road… Oh.
+
+“If you had to crash on that hill… then it wouldn’t be a collision? Since there are like no other cars around usually? So if you were going to crash… it would almost have to be a rollover.”
+
+“That’s a promising line of thought.”
+
+So… the chance to crash was still 1 in 16 * 1000… but given that he crashed on that hill, the 0.1% was too low for her estimate of the rollover… since that was pretty much the only way to crash on that hill, unless god forbid the car went sailing over the edge… 
+
+Okay. So there were three ways to crash on the hill: going too far left off the road and crashing into the houses. Going too far right and going off the edge of the winding roads. Or rolling over on a turn. Uhh. They all seemed kinda equally likely to her. So her 0.1% was actually a 1 in 3. Making her overall number… 1 in 16 * 1000 * 3, which was 1 in 48 * 1000.
+
+“One in 50,000?”
+
+She could barely hear him, but he sucked in air, looked down and to the side, and - she thought - muttered “Shit.”
+
+“Do you not like that number either?” She braced herself for another instant rejection.
+
+“No… I mean, it sounds reasonable. Thanks for bearing with me.”
+
+She smiled. He was a nice guy.
+
+“But… I don’t like it, either. And you said the fire was less than 1%? How much less?”
+
+Uh. 1% was definitely too high. People - including her, when she wasn’t thinking hard - sometimes thought of “less than 1%” as being a close-enough estimate, but it wasn’t: 1 in 100 was super different than 1 in 1000, which was also super different from 1 in 10,000. These were crazily different from each other, compared to something like 5/10 versus 9/10. 
+
+Like, for a 5 in 10 thing compared to a 9 in 10 thing, you’d see the 9 in 10 thing nine-fifths more often than the 5 in 10 thing - about twice as often. But you’d see a 1 in 100 thing ten times more often than a 1 in 1000 thing! So in a critical sense - the only sense one should really care about, she thought - the difference between 1/100 and 1/1000 was 5 times bigger than the difference between 5/10 and 9/10.
+
+So she understood why he was asking. “Less than 1%” didn’t tell him much. She didn’t have any friends whose cars had caught on fire after an accident - accidents were rare and fires after accidents were rare too and both things would’ve had to happen, so it would be weird if she did - so she just kind of guessed. 1 in 1000 felt high, 1 in 10,000 felt low, so…
+
+“1 in 5000? It’s just a guess.”
+
+“Okay.” He was back to his stoic self. “That’s bad. Be prepared.”
