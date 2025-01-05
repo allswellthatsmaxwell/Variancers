@@ -104,7 +104,7 @@ She started walking. “What’s your name?” she asked. Instead of falling in 
 
 “Nice to meet you. Um, I guess. My name’s Cassie.” She eyes him as he navigates his way through the trees. “Why are you… walking over there?”
 
-“If we’re too close, my bad luck could cause harm to you. For instance, if a car careened off the road as we were walking next to each other, or a tree fell on me.” He said this all so calm and straightforwardly that he could be one of her teachers describing a lesson plan. “Better that I be over here.”
+“If we’re too close, you could get caught up in my bad luck. Say a car careened off the road as we were walking next to each other, or a tree fell on me.” He said this all so calm and straightforward a manner that he could be one of her teachers describing a lesson plan. Which was a manner she was familiar with, since she had just suffered through the first two days of classes, where the professors did exactly that. “Better that I be over here.”
 
 “… Okay.” She’d probably argued enough about this already. She decided to let him have his paranoias. They walked for a while in silence in their odd parallel positions, her on the sidewalk next to the road and him in the woods.
 
@@ -114,7 +114,7 @@ She started walking. “What’s your name?” she asked. Instead of falling in 
 
 “Oh! Is someone you know there?” She hoped not. His day already must have been terrible; having a friend or family member in the hospital too would be too much.
 
-“No. I… had a feeling I’d need their services. I was getting as close as I could.
+“No. I… had a feeling I’d need their services. I was getting as close as I could.”
 
 That was a very strange reason to go to the hospital, but, well, he hadn’t been wrong. She wasn’t one to argue with a guess that turned out to be right, no matter how strange it seemed a priori. Although her reason for that policy was that usually the guesser turned out to have some deep intuition about what was gonna happen, even though they couldn’t explain that intuition. What kind of intuition did Davis have for his car rolling over at 25 miles per hour?
 
@@ -128,7 +128,7 @@ She sighed. She wasn’t so sure. “Uh, yeah, that’s what people say. I just 
 
 “You don’t sound very excited.”
 
-“Yeah, I don’t know… my dad is a stats guy, but when he talks about his work… he used to talk about, like, running t-tests all the time, but they all kinda seemed samey? Like running the same test every week and just… dutifully passing on the results. But at least he was doing stats, then, I guess. In the past couple years he’s switched to talking about databases and pipelines. I don’t really get it, but, um, I know that it sounds… boring.”
+“Yeah, I don’t know… my dad is a stats guy, but when he talks about his work… he used to talk about, like, running t-tests all the time, but they all kinda seemed samey? Like running the same test every week and just… dutifully passing on the results to somebody else. But at least he was doing stats, then, I guess. In the past couple years he’s switched to talking about databases and pipelines. I don’t really get it, but, um, I know that it sounds… boring.”
 
 “Statistics can be critically useful. Especially in my line of work. It’s good you have an interest.”
 
@@ -149,6 +149,7 @@ They had made it to the end of the wooden area, and the town was ahead of them n
 “Yes.”
 
 “Unlikely!” She yelled. Maybe a bit too loud. She lowered her voice a little. “Super unlikely. Don’t worry. It’s not something that’s gonna happen next time you drive or anything.”
+
 He grimaced. “I need more than that. Can you estimate the probability?”
 
 “Um.” She was quiet as she walked and thought. She passed the coffee shop she liked to go to. Then the hardware store. He didn’t rush her; they walked in silence. 
@@ -161,7 +162,7 @@ Every time a car passed, Davis floated closer to the businesses furthest from th
 
 If it was 1/40 for a year, then any given day’s probability was 1 / 40 * 365. She didn’t want to deal with the arithmetic, so she rounded it to 1 / 40 * 400. Four times four was 16, so this was the same as 1 / 16 * 1000. 
 
-And to rollover… you usually had to be going pretty fast, and turning pretty hard, at the same time. Davis had been going 30 miles an hour, which wasn’t very fast, and the turn wasn’t killer sharp, but it wasn’t the smoothest turn ever, either? But still not a case where you’d expect a rollover. So this was less likely than the 2% rollover rate. Uhh, maybe 0.1%?
+And to roll over… you usually had to be going pretty fast, and turning pretty hard, at the same time. Davis had been going 30 miles an hour, which wasn’t very fast, and the turn wasn’t killer sharp, but it wasn’t the smoothest turn ever, either? But still not a case where you’d expect a rollover. So this was less likely than the 2% rollover rate. Uhh, maybe 0.1%?
 
 So… if the chance of him getting into an accident was 1 / 16 * 1000, and given that he’d gotten into an accident, the chance of it being a rollover was 0.1%… or 1 in 1,000… Then together… it was 1 / 16 * 1000 * 1000.
 
@@ -189,7 +190,9 @@ Hm. Conditional on crashing… well, that wasn’t right. It was still super unl
 
 “That’s a promising line of thought.”
 
-So… the chance to crash was still 1 in 16 * 1000… but given that he crashed on that hill, the 0.1% was too low for her estimate of the rollover… since that was pretty much the only way to crash on that hill, unless god forbid the car went sailing over the edge… 
+So… the chance to crash was still 1 in 16 * 1000… but given that he crashed on that hill, the 0.1% was too low for her estimate of the rollover… since that was pretty much the only way to crash on that hill, unless god forbid the car went sailing over the edge…
+
+She took her glasses off while she thought, and played with them, folding one arm of them in while the other stayed stuck out, then unfolding that one and folding the other one in, again and again.
 
 Okay. So there were three ways to crash on the hill: going too far left off the road and crashing into the houses. Going too far right and going off the edge of the winding roads. Or rolling over on a turn. Uhh. They all seemed kinda equally likely to her. So her 0.1% was actually a 1 in 3. Making her overall number… 1 in 16 * 1000 * 3, which was 1 in 48 * 1000.
 
@@ -197,7 +200,7 @@ Okay. So there were three ways to crash on the hill: going too far left off the 
 
 She could barely hear him, but he sucked in air, looked down and to the side, and - she thought - muttered “Shit.”
 
-“Do you not like that number either?” She braced herself for another instant rejection.
+“Do you not like that number either?” She braced herself for another quick rejection.
 
 “No… I mean, it sounds reasonable. Thanks for bearing with me.”
 
@@ -207,7 +210,7 @@ She smiled. He was a nice guy.
 
 Uh. 1% was definitely too high. People - including her, when she wasn’t thinking hard - sometimes thought of “less than 1%” as being a close-enough estimate, but it wasn’t: 1 in 100 was super different than 1 in 1000, which was also super different from 1 in 10,000. These were crazily different from each other, compared to something like 5/10 versus 9/10. 
 
-Like, for a 5 in 10 thing compared to a 9 in 10 thing, you’d see the 9 in 10 thing nine-fifths more often than the 5 in 10 thing - about twice as often. But you’d see a 1 in 100 thing ten times more often than a 1 in 1000 thing! So in a critical sense - the only sense one should really care about, she thought - the difference between 1/100 and 1/1000 was 5 times bigger than the difference between 5/10 and 9/10.
+Like, for a 5 in 10 thing compared to a 9 in 10 thing, you’d see the 9 in 10 thing nine-fifths more often than the 5 in 10 thing - about twice as often. But you’d see a 1 in 100 thing a hundred times more often than a 1 in 10,000 thing! So in a critical sense - the only sense one should really care about, she thought - the difference between 1/100 and 1/10,000 was 50 times bigger than the difference between 5/10 and 9/10.
 
 So she understood why he was asking. “Less than 1%” didn’t tell him much. She didn’t have any friends whose cars had caught on fire after an accident - accidents were rare and fires after accidents were rare too and both things would’ve had to happen, so it would be weird if she did - so she just kind of guessed. 1 in 1000 felt high, 1 in 10,000 felt low, so…
 
