@@ -20,7 +20,9 @@ The man was old - maybe sixty - with short receded gray hair, and a wide gray be
 
 “Um. Yes! Of course.” Um. The glass. She rushed to his side and started brushing off the specks of glass on his sleeve.
 
-“Not with that,” he said. She kept fussing over the glass on his sleeves, moving on autopilot.
+“Not with that,” he said.
+
+She kept fussing over the glass on his sleeves, moving on autopilot.
 
 “Stop for a second!” His voice was commanding now. She stopped. He put a hand on the back of her shoulder, and moved her with him, not rough, but forcefully enough that she had no choice but to walk, bringing them away from the vehicle.
 
@@ -28,11 +30,11 @@ The man was old - maybe sixty - with short receded gray hair, and a wide gray be
 
 “I am not in shock. We need to get away from the car.” He gave her one last light push, and when she started moving again, took his hand off her shoulderblade. “Further than this. Keep walking.”
 
-She walked. When they were thirty yards from the crash, he finally stopped. Cassie looked back at the car. She whooshed out a breath of air. “That was… really bad luck.”
+She walked. When they were maybe forty yards from the crash, he finally stopped. Cassie looked back at the car. She whooshed out a breath of air. “That was… really bad luck.”
 
 He smiled grimly. “Yes. It was.”
 
-She had a second to breathe now, and notice more. The man in front of her was broad-shouldered, and buff, especially for an old guy. Thebf was bleeding a little from a gash, probably from the glass, but yeah, the jacket hadn’t been cut at all. It was a tough material, extremely practical for just the kind of situation he’s found himself in. He had an old scar on his cheek - a long one. And he was missing two fingers on his left hand - the index and pinky. He wasn’t bleeding from his hand, and the skin looked healed over, so obviously not from the crash.
+She had a second to breathe now, and notice more. The man in front of her was broad-shouldered, and buff, especially for an old guy. The front top of his head, just past the forehead, was bleeding a little from a gash, probably from the glass, but yeah, the jacket hadn’t been cut at all. It was a tough material - extremely practical, really, for just the kind of situation he’d found himself in. He had an old scar on his cheek - a long one. And he was missing two fingers on his left hand - the index and pinky. He wasn’t bleeding from his hand, and the skin looked healed over, so obviously not from the crash.
 
 ”I can stay, and tell the police you weren’t driving fast or anything. Oh! We need to call 911!” She pulled out her phone.
 
@@ -58,7 +60,7 @@ She looked at the car too. Coming from the front… was that… smoke? No way. S
 
 He gave her ten seconds or so to stare at the now-burning vehicle, then spoke again. “I do still need your help.”
 
-Cassie tore her eyes away from the ever-growing flames thirty yards away. “Yes. Right. Okay. But, um. You seem okay. And you won’t let me call 911. Which I still don’t know why. So um. How would I be able to help you?” Maybe she should be more distrustful, but the burning car was so strange. And… had he known it would happen?
+Cassie tore her eyes away from the ever-growing flames forty yards away. “Yes. Right. Okay. But, um. You seem okay. And you won’t let me call 911. Which I still don’t know why. So um. How would I be able to help you?” Maybe she should be more distrustful, but the burning car was so strange. And… had he known it would happen?
 
 “Calling 911 is dangerous because they may send police. And a man with luck like mine doesn’t need any firearms around.”
 
@@ -217,3 +219,103 @@ So she understood why he was asking. “Less than 1%” didn’t tell him much. 
 “1 in 5000? It’s just a guess.”
 
 “Okay.” He was back to his stoic self. “That’s bad. Be prepared.”
+
+“WHY is it bad?” Now she was yelling properly. She knew he must be a little off, but he was so serious about it, and didn’t have the vibe of a guy who told tall tales for fun - plus, who would, in this situation, at his age, to a stranger? Her curiosity was killing her. “We have time now, right? You can tell me?”
+
+“… Okay. If you insist. You’re not going to like it, though.”
+
+“Tell me!”
+
+“Luck… balances. If you have a lot of good luck, you will see bad luck, to compensate. And a couple hours ago, I had incredible luck.”
+
+He couldn’t see her face too closely from across the street, so she permitted herself a full eye roll. “Come on! That isn’t real! Only gambling addicts believe that. They even have a name for it - the gambler’s f-”
+
+“Yeah, yeah. I told you you wouldn’t like it.”
+
+It was just silly. The old idea that if you got a bunch of reds in a row at the roulette table or whatever, that you were due a roll on black. She sighed. “So I’m guessing you’re a gambler?” He had seemed put together enough, but she guessed casinos were always full of old people for a reason, whatever it was… maybe it would happen to her in forty years. She shuddered at the thought of herself sitting in front of a slot machine, pulling the lever for hours, like a cow at trough.
+
+“We go to the casino sometimes, yes. When we need money, and have some luck coming.” She guessed he would be giving her a flat look if he wasn’t so committed to his drift-swivel-watch pattern.
+
+“You and your wife?”
+
+“Me and my team. Or, rather, the member of the team who has luck coming and doesn’t need it for anything else.”
+
+“Mister… I mean, Davis… I mean… things just don’t work like that. I’m a stats major, you know? This is known to… not be a thing.”
+
+“It is ‘a thing’, for us. And your numbers on my car say I haven’t fully paid for the luck I got earlier. I understand you don’t believe me. But be ready to run, or move out of the way, or react. It would be good if you put your glasses back on.”
+
+She hadn’t noticed she was still holding them, swinging them gently back and forth in her hand. She put them back on. She didn’t know why she put them back on, but she did. She didn’t know why she felt tense, now, either, but she did.
+
+Three blocks later, it happened. A man stepped around the corner as Davis approached it. Well, his demeanor - standing tall, chest puffed out, head held high, looking directly into Davis’s eyes - made her think “man”, but he was probably younger than her, and scrawny, with brown hair, in an oversized T-shirt. He’d stepped around the corner of the building just as Davis got close, so Davis was only a couple feet away from them, and the man blocked his way.
+
+“Your money and your phone. Hand them over.” The man (kid?) couldn’t quite get the confidence he was projecting with his body all the way into his voice. Which made sense - Davis outweighed the guy by more than fifty pounds. Davis froze.
+
+“Don’t just fucking stand there, man, hand it over!” Already the kid was agitated. Cassie hurried across the street, toward them, with no plan whatsoever.
+
+“Okay. I’m not a threat. I’ll do what you say. Do you have weapons?” Davis sounded calm.
+
+This was a small town in broad daylight, during rush hour, or what passed for rush hour here, for god’s sake. Why now? And why pick the biggest guy on the street to rob? 
+
+Cassie didn’t know a lot about fighting, but her friend Sam was obsessed with it and watched UFC all the time and went on and on to her about it the day after an exciting fight, and one thing he talked about was how important weight was. A little guy was terribly disadvantaged against a big guy - as she understood it, the difference in mass made it so the big guy hit the little guy way harder, and the little guy struggled to do damage against a bigger guy. 
+
+Plus, the spot he picked was right in front of the flower shop, which was open and had people inside.
+
+“I might, homie. You don’t want to find out.”
+
+Now that she was closer, Cassie could see Davis’s eyes doing what they must have been doing the whole time - scanning the man’s waistband, ankles, tilting his head slightly back and forth to try and get slightly better angles, to see if he had any weapons. Cassie, unlike Davis, could see the back of the robber’s waistband, and even under the big shirt, she was pretty sure she’d see an imprint if he had a gun - and she didn’t see one. She looked at Davis, and he met her eyes, and she made a kind of dismissive shrugging motion that she hoped communicated what she meant it to.
+
+“What kind of weapon?” Davis’s voice was even.
+
+“You don’t want to find out! Give me the fucking money!”
+
+“You don’t have one.” Davis’s gaze was searching. “Okay.” And Davis, lightning-quick, especially for a guy his size, shifted into a stance, and threw a punch... right into the shoulder of a customer who’d chosen that moment to walk quickly out of the flower shop, in a hurry and oblivious.
+
+The robber took the opportunity to move forward, behind the flower shop guy, and socked Davis in the nose. Davis fell back, hard - a little too hard? Cassie wondered if Sam had it wrong - falling to his butt, and put his hands up. 
+
+“Okay! You got me.” He fished for his back pocket awkwardly, his position seated on the ground making it difficult to retrieve his wallet, but he got it and held it out. “There’s 200 dollars in there. It’s all yours.”
+
+The kid’s eyes were bugging out, and he was breathing heavy from the excitement, but he took it, and without another word, turned and ran.
+
+“Oh my god! Are you okay?!” Cassie reached Davis and helped him up. His face looked fine, though.
+
+Davis grinned. “That was unlikely.”
+
+“Why does that make you *happy?!*”
+
+“Because we’re probably good now. I can’t calculate it, but you know how unlikely that was. My luck should be just about balanced now.”
+
+She was going to lose her mind. Because it was nonsense. And because he’d predicted it.
+
+She stood there, working her jaw around (in a way she knew looked weird to other people, but she needed it to think), and took a few breaths.
+
+“Okay… so… if your luck is so bad…”
+
+“Was so bad.”
+
+She touched her teeth together and glared off in the distance, at nothing in particular.
+
+“If your luck *was* so bad… why try and attack the guy? Huh?” Finding this flaw in his reasoning gave her a rush of relief, somehow. His bonkers theory had made enough good predictions that finding something wrong about it was… soothing.
+
+“Because losing was unlikely, and if I did lose, to a skinny guy without weapons, I wouldn’t sustain much damage from it.” He pointed at his face, still smiling, apparently in a suddenly excellent mood. His nose was a little red, but it wasn’t bleeding or bent.
+
+“But you did lose. Even if it was unlikely, you did. Which is worse than just giving him the money! Why did you fight him?”
+
+Davis was shaking his head. “It’s better. Because I didn’t get hurt.” He held up his left hand, the one missing the fingers. “I’ve had worse.” He grabbed her by the shoulder, and shook her lightly, in what he seemed to think was an encouraging gesture. “You helped back there, letting me know he didn’t have anything stuffed behind his back.”
+
+“You got that?”
+
+“You communicated it well. Quick thinking. I’d told you to be ready to run - I didn’t expect you to run toward me.”
+
+She hadn’t been thinking. But she felt honored by the compliment, and they were both smiling now. “Sure!”
+
+“I probably don’t need to go to the hospital now, but a member of my team should be waiting for me there, and we’re close, so I’m going to head there anyway. I should be good now, so if you have something pressing to do, you don’t need to keep keeping me company.”
+
+She shook her head. This was… exciting. Not the robbery - she didn’t need that type of excitement - but she was almost… starting to believe him. What she was starting to believe, she still wasn’t sure, but… something that shouldn’t make sense was starting to feel like it was making sense. “I’ll see this through.”
+
+“Good. Amanda is the one waiting for me. I’d like you to meet her.”
+
+They resumed walking. Cassie, remembering, turned to head toward the opposite side of the street. Davis stopped her.
+
+“That’s alright. We’re past the worst of the danger. I might trip or something, but I don’t expect any cars to careen into me anymore. You can stay on this side, if you want.”
+
+It was better than shouting across the road, so she stayed. They walked.
